@@ -17,3 +17,13 @@ PHẦN 1: GIỚI THIỆU DỰ ÁN
 - Quản lý học phí và công nợ
 - Hệ thống báo cáo và thống kê
 - Giao diện web responsive
+
+
+PHẦN 2: PHÂN TÍCH YÊU CẦU
+
+2.1 YÊU CẦU CHỨC NĂNG
+- Đăng nhập/đăng xuất hệ thống
+- Quản lý thông tin sinh viên (CRUD)
+- Nhập và cập nhật điểm số
+- Tính toán GPA tự động
+- Tìm kiếm và lọc thông tin
