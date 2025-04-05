@@ -34,3 +34,12 @@ PHẦN 2: PHÂN TÍCH YÊU CẦU
 - Khả năng mở rộng: Hỗ trợ 1000+ người dùng
 - Tính sẵn sàng: Uptime 99.9%
 - Giao diện: Responsive trên mọi thiết bị
+
+2.3 USE CASE DIAGRAM
+- Actor: Admin, Giáo viên, Sinh viên
+- Use cases chính:
+  + Quản lý thông tin sinh viên
+  + Nhập điểm
+  + Xem kết quả học tập
+  + Quản lý học phí
+  + Tạo báo cáo
