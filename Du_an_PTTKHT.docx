@@ -43,3 +43,14 @@ PHẦN 2: PHÂN TÍCH YÊU CẦU
   + Xem kết quả học tập
   + Quản lý học phí
   + Tạo báo cáo
+
+
+
+PHẦN 3: THIẾT KẾ HỆ THỐNG
+
+3.1 KIẾN TRÚC HỆ THỐNG
+- Kiến trúc 3 lớp (3-tier architecture)
+- Presentation Layer: React.js
+- Business Logic Layer: Node.js/Express
+- Data Access Layer: MySQL
+- Kiến trúc MVC pattern
