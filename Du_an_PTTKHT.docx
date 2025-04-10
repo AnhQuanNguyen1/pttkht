@@ -54,3 +54,10 @@ PHẦN 3: THIẾT KẾ HỆ THỐNG
 - Business Logic Layer: Node.js/Express
 - Data Access Layer: MySQL
 - Kiến trúc MVC pattern
+
+3.2 THIẾT KẾ CƠ SỞ DỮ LIỆU
+- Bảng Students: id, name, email, phone, address
+- Bảng Courses: id, name, credits, description
+- Bảng Enrollments: student_id, course_id, grade, semester
+- Bảng Users: id, username, password, role
+- Bảng Payments: id, student_id, amount, date, status
