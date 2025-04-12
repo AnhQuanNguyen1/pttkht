@@ -61,3 +61,11 @@ PHẦN 3: THIẾT KẾ HỆ THỐNG
 - Bảng Enrollments: student_id, course_id, grade, semester
 - Bảng Users: id, username, password, role
 - Bảng Payments: id, student_id, amount, date, status
+
+3.3 THIẾT KẾ GIAO DIỆN
+- Trang đăng nhập: Simple và secure
+- Dashboard: Tổng quan thông tin
+- Trang quản lý sinh viên: CRUD operations
+- Trang nhập điểm: Form validation
+- Trang báo cáo: Charts và tables
+- Mobile responsive design
