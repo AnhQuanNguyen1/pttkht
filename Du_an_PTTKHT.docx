@@ -69,3 +69,14 @@ PHẦN 3: THIẾT KẾ HỆ THỐNG
 - Trang nhập điểm: Form validation
 - Trang báo cáo: Charts và tables
 - Mobile responsive design
+
+
+
+PHẦN 4: TRIỂN KHAI
+
+4.1 CÔNG NGHỆ SỬ DỤNG
+- Frontend: React.js, HTML5, CSS3, Bootstrap
+- Backend: Node.js, Express.js
+- Database: MySQL
+- Authentication: JWT
+- Deployment: Docker, AWS EC2
