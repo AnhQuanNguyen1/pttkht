@@ -80,3 +80,16 @@ PHẦN 4: TRIỂN KHAI
 - Database: MySQL
 - Authentication: JWT
 - Deployment: Docker, AWS EC2
+
+4.2 CẤU TRÚC CODE
+- Frontend/
+  + src/components/
+  + src/pages/
+  + src/services/
+  + src/utils/
+- Backend/
+  + controllers/
+  + models/
+  + routes/
+  + middleware/
+  + config/
