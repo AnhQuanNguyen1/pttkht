@@ -93,3 +93,10 @@ PHẦN 4: TRIỂN KHAI
   + routes/
   + middleware/
   + config/
+
+4.3 TESTING
+- Unit Testing: Jest cho React components
+- Integration Testing: API endpoints
+- Performance Testing: Load testing
+- Security Testing: Vulnerability scan
+- User Acceptance Testing: Manual testing
