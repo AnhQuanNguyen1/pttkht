@@ -100,3 +100,11 @@ PHẦN 4: TRIỂN KHAI
 - Performance Testing: Load testing
 - Security Testing: Vulnerability scan
 - User Acceptance Testing: Manual testing
+
+4.4 BẢO MẬT
+- Password hashing với bcrypt
+- JWT token authentication
+- Input validation và sanitization
+- SQL injection prevention
+- XSS protection
+- HTTPS encryption
