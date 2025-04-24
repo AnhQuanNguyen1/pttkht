@@ -108,3 +108,11 @@ PHẦN 4: TRIỂN KHAI
 - SQL injection prevention
 - XSS protection
 - HTTPS encryption
+
+4.5 TỐI ƯU HIỆU SUẤT
+- Database indexing
+- Query optimization
+- Caching với Redis
+- Image compression
+- Code splitting
+- Lazy loading components
