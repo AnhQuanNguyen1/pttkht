@@ -127,3 +127,11 @@ PHẦN 5: KẾT LUẬN
 - Giao diện thân thiện người dùng
 - Hiệu suất tốt với 500+ concurrent users
 - Bảo mật đạt chuẩn
+
+5.2 HƯỚNG PHÁT TRIỂN
+- Thêm tính năng chatbot hỗ trợ
+- Mobile app cho iOS/Android
+- Tích hợp AI cho recommendation
+- Advanced analytics và reporting
+- Microservices architecture
+- Cloud-native deployment
