@@ -12,6 +12,9 @@ Dự án tập trung vào việc khảo sát, phân tích yêu cầu và thiết
 -  Tích hợp chức năng nhắn tin tư vấn trực tiếp với cửa hàng.
 -  Theo dõi trạng thái đơn hàng từ khi đặt đến lúc nhận hàng.
 
+
+
+
 Mục tiêu của dự án là xây dựng bản thiết kế hệ thống rõ ràng, logic và có tính ứng dụng cao, làm tiền đề cho việc triển khai và phát triển một nền tảng thương mại điện tử hiện đại, góp phần nâng cao trải nghiệm mua sắm và hỗ trợ phát triển ngành bán lẻ quần áo trực tuyến.
 
 
