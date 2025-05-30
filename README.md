@@ -1,5 +1,6 @@
 System Analysis and Design
-## Giới thiệu dự án 
+
+## Giới thiệu dự án
 
 Đây là dự án phân tích và thiết kế hệ thống cho một website thương mại điện tử chuyên cung cấp các mặt hàng thời trang. Với nhu cầu mua sắm trực tuyến ngày càng gia tăng, việc xây dựng một hệ thống hỗ trợ bán hàng hiệu quả là hết sức cần thiết.
 
@@ -11,4 +12,9 @@ Dự án tập trung vào việc khảo sát, phân tích yêu cầu và thiết
 -  Tích hợp chức năng nhắn tin tư vấn trực tiếp với cửa hàng.
 -  Theo dõi trạng thái đơn hàng từ khi đặt đến lúc nhận hàng.
 
+
+
+
 Mục tiêu của dự án là xây dựng bản thiết kế hệ thống rõ ràng, logic và có tính ứng dụng cao, làm tiền đề cho việc triển khai và phát triển một nền tảng thương mại điện tử hiện đại, góp phần nâng cao trải nghiệm mua sắm và hỗ trợ phát triển ngành bán lẻ quần áo trực tuyến.
+
+
